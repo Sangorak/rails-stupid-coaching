@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+ body{
+ }
+.question{
+   border-radius: 5px;
+   width: 100px;
+ }
+
+ .you {
+  border-left: 6px solid lightgrey;
+  padding: 5px;
+  width: 385px;
+ }
+
+ .coach{
+  margin-top: 19px;
+  border-left: 6px solid lightgrey;
+  background-color: #FFFFE1;
+  padding: 5px;
+  width: 385px;
+ }
+
+.champ {
+  border-radius: 10px;
+  width: 100px;
+}
+
+.button{
+  border-radius: 10px;
+}
+
+.link{
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+  color :#77A4D1;
+}
